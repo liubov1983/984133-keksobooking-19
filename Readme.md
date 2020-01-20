@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Любовь Яковлева](https://up.htmlacademy.ru/javascript/19/user/984133).
-* Наставник: [Александр Бабченко] (https://htmlacademy.ru/profile/babtshe).
+* Наставник: [Александр Бабченко](https://htmlacademy.ru/profile/babtshe).
 
 ---
 
